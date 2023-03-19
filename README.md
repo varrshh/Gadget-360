@@ -1,4 +1,4 @@
-GADGET 360
+# GADGET 360
 This project is to build a E-Commerce
 website using React. Aims to build the most
 modern website using Sanity.
